@@ -1,0 +1,67 @@
+header {
+    background-color: black;
+    /* cor de fundo do cabeçalho */
+    text-align: center;
+    /* alinhamento do texto */
+    color: rgb(255, 255, 255);
+    /* "COLOR" cor da letra */
+    padding: 50px;
+    /* tamanho/preenchimento do cabeçalho */
+}
+
+header h1 {
+    color: rgb(255, 0, 0);
+    /* SEMPRE COR DA LETRA */
+    font-size: 25px;
+    /* SEMPRE PARA O TAMANHO DE LETRAS */
+}
+
+
+.piao {
+    background-color:  rgb(0, 66, 153);
+    padding: 150px;
+}
+
+.loko11 {
+    background-color: hsl(0, 27%, 96%);
+    padding: 150px;
+}
+
+.bujao {
+    background-color: #aa0b0b ;
+    padding: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: black;
+    /* COR DE FUNDO RODA PÉ */
+    text-align: center;
+    /* ALINAHMENTO DE TEXTO */
+    padding: 20px;
+    /* TAMANHO DA CAIXA */
+}
+
+footer p {
+    color: yellow;
+    /* COR DA LETRA */
+    font-size: 25px;
+    /* TAMANHO DA LETRA */
+
+}
+.cortinas {
+    padding: 50px; /* TAMANHO DA LETRA*/
+    color: whitesmoke; /* COR DA LETRA */
+    
+}
